@@ -1,0 +1,995 @@
+{
+  "schema": 1,
+  "lang": "tr",
+  "name": "Turkish",
+  "dir": "ltr",
+  "translations": {
+    "abasement": {
+      "title": "Aşağılanma",
+      "src": "08881479"
+    },
+    "abraham": {
+      "title": "İbrahim",
+      "src": "f9dd6cca"
+    },
+    "acceptable": {
+      "title": "Makbul",
+      "src": "9276a7a9"
+    },
+    "ad": {
+      "title": "Ad",
+      "src": "bdbd3da2"
+    },
+    "adam": {
+      "title": "Adem",
+      "short_description": "Âdem (آدم) (a.s.), Allah tarafından yaratılan ilk insan, İslâm'daki ilk peygamber ve Habil ile Kabil'in babasıdır.",
+      "src": "c7073a7a"
+    },
+    "agreement": {
+      "title": "Anlaşma",
+      "src": "10f9327e"
+    },
+    "allah": {
+      "title": "Allah",
+      "short_description": "Allah (الله), İslam'ın tevhidi doğasıyla uyumlu olarak, Kur'an'da tek ve gerçek ilah için kullanılan isimdir.",
+      "src": "be0ee8f3"
+    },
+    "allah-names": {
+      "title": "Allah'ın isimleri",
+      "src": "7dbc7173"
+    },
+    "ancestors": {
+      "title": "Atalar",
+      "src": "e97a0333"
+    },
+    "angels": {
+      "title": "Melekler",
+      "src": "0b3280dd"
+    },
+    "ark": {
+      "title": "sandık",
+      "src": "40fe93e0"
+    },
+    "ark-1280": {
+      "title": "Sandık",
+      "src": "0c04c87a"
+    },
+    "arrogance": {
+      "title": "Kibir",
+      "src": "cb328330"
+    },
+    "astray": {
+      "title": "Yoldan çıkmış",
+      "src": "8b229f4f"
+    },
+    "astronomy": {
+      "title": "Astronomi",
+      "src": "a142fc11"
+    },
+    "battle-of-uhud": {
+      "title": "Uhud Muharebesi",
+      "src": "bb7a34de"
+    },
+    "behavior": {
+      "title": "Davranış",
+      "src": "c2a2155a"
+    },
+    "belief": {
+      "title": "İman",
+      "src": "3b7d7e58"
+    },
+    "blessing": {
+      "title": "Nimet",
+      "src": "b4b30e40"
+    },
+    "body-parts": {
+      "title": "Vücut Bölümleri",
+      "src": "8d9fe9ac"
+    },
+    "brother": {
+      "title": "Kardeş",
+      "src": "4a6c04b1"
+    },
+    "brotherhood": {
+      "title": "Kardeşlik",
+      "src": "26f91dfa"
+    },
+    "calamity": {
+      "title": "Musibet",
+      "src": "32f1519a"
+    },
+    "certainty": {
+      "title": "Kesinlik",
+      "src": "a0b57028"
+    },
+    "charity": {
+      "title": "Sadaka",
+      "src": "9a274a68"
+    },
+    "child": {
+      "title": "Çocuk",
+      "src": "2bf1b736"
+    },
+    "children-of-israel": {
+      "title": "İsrailoğulları",
+      "short_description": "Kur'an'da, İsrailoğulları'ndan (بنى إسرائيل) bahsedilirken \"İsrailoğulları\" ifadesi kullanılır. İslam'a göre, İsrail'in on iki kabilesi, İshak'ın (a.s.) oğlu olan Yakub'un (a.s) (aynı zamanda İsrail olarak da bilinir) soyundan gelmektedir.",
+      "src": "d3875528"
+    },
+    "city": {
+      "title": "Şehir",
+      "short_description": "Şehir, Kur'an'da adı geçen şehirleri ifade eden bir kategoridir.",
+      "src": "e739b32b"
+    },
+    "clan": {
+      "title": "Kabile",
+      "src": "e41ed015"
+    },
+    "clothing": {
+      "title": "Giyim",
+      "src": "8f0d1bf7"
+    },
+    "command": {
+      "title": "Emir",
+      "src": "5274e7f0"
+    },
+    "commandments": {
+      "title": "Emirler",
+      "src": "082b9203"
+    },
+    "community": {
+      "title": "Topluluk",
+      "src": "73881e70"
+    },
+    "companion": {
+      "title": "Sahabe",
+      "src": "200aa28e"
+    },
+    "corruption": {
+      "title": "Fesat",
+      "src": "b81482c9"
+    },
+    "covenant": {
+      "title": "Antlaşma",
+      "src": "eec80fbf"
+    },
+    "creation": {
+      "title": "Yaratılış",
+      "src": "739af24b"
+    },
+    "curse": {
+      "title": "Lanet",
+      "src": "fd047fe9"
+    },
+    "darkness": {
+      "title": "Karanlık",
+      "src": "58727de1"
+    },
+    "day": {
+      "title": "Gün",
+      "src": "8ded63a0"
+    },
+    "day-of-resurrection": {
+      "title": "Kıyamet Günü",
+      "short_description": "Kıyamet Günü (يوم القيامة), ahirette Allah'ın insanlığı yeniden dirilteceği ve yargılayacağı zamandır.",
+      "src": "dcb174e6"
+    },
+    "dead": {
+      "title": "Ölü",
+      "src": "1c569a51"
+    },
+    "death": {
+      "title": "Ölüm",
+      "src": "cae09aff"
+    },
+    "destination": {
+      "title": "Varış Noktası",
+      "src": "e89ef010"
+    },
+    "destiny": {
+      "title": "Kader",
+      "src": "152cfabc"
+    },
+    "deviator": {
+      "title": "Saptırıcı",
+      "src": "70e4572a"
+    },
+    "devil": {
+      "title": "Şeytan",
+      "src": "25e7429c"
+    },
+    "disaster": {
+      "title": "Felaket",
+      "src": "fd2ded95"
+    },
+    "disbeliever": {
+      "title": "Kafir",
+      "src": "a0566dea"
+    },
+    "diversion": {
+      "title": "Saptırma",
+      "src": "c25bcfdc"
+    },
+    "drink": {
+      "title": "İçmek",
+      "src": "acf620e8"
+    },
+    "dua": {
+      "title": "Dua",
+      "src": "f4cf0838"
+    },
+    "earth": {
+      "title": "Yeryüzü",
+      "short_description": "Kur'an'ın birçok ayetinde yeryüzü (أرض), insanlığın dünya hayatındaki meskeni olarak geçmektedir.",
+      "src": "18c7cea4"
+    },
+    "endurance": {
+      "title": "Sabır",
+      "src": "dc8d6813"
+    },
+    "enemy": {
+      "title": "Düşman",
+      "src": "9193395d"
+    },
+    "enjoyment": {
+      "title": "Hoşlanma",
+      "src": "72cb9c3d"
+    },
+    "eternal": {
+      "title": "Sonsuz",
+      "src": "abdc21cb"
+    },
+    "exactitude": {
+      "title": "Kesinlik",
+      "src": "327aa862"
+    },
+    "exaltation": {
+      "title": "Yücelme",
+      "src": "f084d6e2"
+    },
+    "example": {
+      "title": "Örnek",
+      "src": "ea3681f4"
+    },
+    "eye": {
+      "title": "Göz",
+      "short_description": "Göz (عين), Kur'an'da bahsedilen vücut bölümlerinden biridir.",
+      "src": "ef79eddc"
+    },
+    "face": {
+      "title": "Yüz",
+      "src": "e3aec14b"
+    },
+    "faith": {
+      "title": "İnanç",
+      "src": "51147c2d"
+    },
+    "father": {
+      "title": "Baba",
+      "src": "c2460e21"
+    },
+    "fathers": {
+      "title": "Babalar",
+      "src": "4e9ff658"
+    },
+    "fear": {
+      "title": "Korku",
+      "src": "7085349d"
+    },
+    "female": {
+      "title": "Kadın",
+      "src": "f52a7fbe"
+    },
+    "fighting": {
+      "title": "Mücadele",
+      "src": "b538a33a"
+    },
+    "general-religious": {
+      "title": "genel dini",
+      "src": "98888371"
+    },
+    "grateful": {
+      "title": "Minnettar",
+      "src": "18adcbe9"
+    },
+    "greed": {
+      "title": "Açgözlülük",
+      "src": "0230e823"
+    },
+    "guidance": {
+      "title": "Hidayet",
+      "src": "a7da61bb"
+    },
+    "hand": {
+      "title": "El",
+      "src": "ef8a5255"
+    },
+    "haram": {
+      "title": "Haram",
+      "src": "b91a7629"
+    },
+    "hearing": {
+      "title": "Duyma",
+      "src": "20fa505e"
+    },
+    "heart": {
+      "title": "Kalp",
+      "short_description": "Kalp, Kur'an'da bahsedilen vücut bölümlerinden biridir.",
+      "src": "10f1314f"
+    },
+    "heaven": {
+      "title": "Cennet",
+      "src": "2128c6a4"
+    },
+    "hell": {
+      "title": "Cehennem",
+      "src": "f9ca4736"
+    },
+    "hell-the-fire-the-blazing-flame": {
+      "title": "Cehennem (ateş, alev alev yanan ateş)",
+      "src": "5c28686b"
+    },
+    "help": {
+      "title": "Yardım",
+      "src": "3227496a"
+    },
+    "hereafter": {
+      "title": "Ahiret",
+      "src": "f80ec955"
+    },
+    "hour": {
+      "title": "Saat",
+      "src": "7f23b833"
+    },
+    "house": {
+      "title": "Ev",
+      "src": "983e2a1b"
+    },
+    "hud": {
+      "title": "Hud",
+      "short_description": "Hud (هود) (a.s.), İslam'da Âd kavmine gönderilmiş seçkin bir peygamberdir (aynı zamanda Eber olarak da bilinir).",
+      "src": "983ac1bd"
+    },
+    "human": {
+      "title": "İnsan",
+      "short_description": "İnsan, ontolojide, Kur'an'da zikredilen bireysel insanları veya insan gruplarını ifade eden bir kategoridir.",
+      "src": "aa81755b"
+    },
+    "human-body": {
+      "title": "İnsan Vücudu",
+      "src": "5bb1ffd6"
+    },
+    "humankind": {
+      "title": "İnsanlık",
+      "src": "dbbe80e5"
+    },
+    "humiliation": {
+      "title": "Küçük Düşürme",
+      "src": "3e4d241d"
+    },
+    "humility": {
+      "title": "Tevazu",
+      "src": "a67c8f2f"
+    },
+    "hypocrite": {
+      "title": "Münafık",
+      "src": "0fbb33e6"
+    },
+    "hypocrites": {
+      "title": "Münafıklar",
+      "src": "4d904b05"
+    },
+    "iblis": {
+      "title": "İblis",
+      "short_description": "İblis (إبليس), Âdem’in (a.s) önünde secde etmeyi reddeden cin olan Şeytan’ın bir diğer adıdır.",
+      "src": "6acffdc6"
+    },
+    "iblis-satan": {
+      "title": "İblis (Şeytan)",
+      "src": "13f34763"
+    },
+    "ibrahim": {
+      "title": "İbrahim",
+      "short_description": "İbrahim (إبراهيم) (a.s.), Azer'in oğlu ve İsmail (a.s.) ile İshak'ın (a.s.) babası olan İslam'da asil bir peygamberdir.",
+      "src": "ea99f01e"
+    },
+    "in-the-story-of-his-son-joseph": {
+      "title": "oğlu Yusuf'un hikayesinde",
+      "src": "40560382"
+    },
+    "innovation": {
+      "title": "Bidat",
+      "src": "5bd25f8a"
+    },
+    "islam": {
+      "title": "İslam",
+      "short_description": "İslam (الإسلام), Kur'an'a ve Muhammed peygamberin (s.a.v.) sünnetine dayanan tek tanrılı dindir.",
+      "src": "ec71cf97"
+    },
+    "israel": {
+      "title": "İsrail",
+      "short_description": "İsrail (إسرائيل), Kur'an'da \"İsrailoğulları\" olarak anılan topluluktan bahsedilirken kullanılan, yüce peygamber Yakub'un (a.s) adıdır.",
+      "src": "0d3b1f30"
+    },
+    "jesus": {
+      "title": "İsa",
+      "short_description": "İsa (عيسى), Meryem'in (a.s) oğludur ve İslam'da seçkin bir peygamber ve elçidir.",
+      "src": "7e1a6bf4"
+    },
+    "jewish": {
+      "title": "Yahudi",
+      "src": "920f1e40"
+    },
+    "jews": {
+      "title": "Yahudiler",
+      "src": "b7e1191b"
+    },
+    "jinn": {
+      "title": "Cin",
+      "short_description": "Cin (الجن), ontolojide, Kur'an'da zikredilen ve \"cin\" olarak bilinen, Allah'ın yarattığı varlıklar kategorisini ifade eder.",
+      "src": "04776258"
+    },
+    "joseph": {
+      "title": "Yusuf",
+      "src": "0dbea1b1"
+    },
+    "judge": {
+      "title": "Hakim",
+      "src": "6900eb32"
+    },
+    "judgement-day": {
+      "title": "Hesap günü",
+      "src": "0f53b1cd"
+    },
+    "judgment": {
+      "title": "Hüküm",
+      "src": "51b185f3"
+    },
+    "justice": {
+      "title": "Adalet",
+      "src": "ce05abbb"
+    },
+    "killing": {
+      "title": "Öldürme",
+      "src": "5a99cb0b"
+    },
+    "knowledge": {
+      "title": "Bilgi",
+      "src": "0d281173"
+    },
+    "land": {
+      "title": "Toprak",
+      "src": "8319b99c"
+    },
+    "lie": {
+      "title": "Yalan",
+      "src": "4761fb4d"
+    },
+    "life": {
+      "title": "Hayat",
+      "src": "2321c142"
+    },
+    "light": {
+      "title": "Nur",
+      "src": "b5d4e352"
+    },
+    "loser": {
+      "title": "Kaybeden",
+      "src": "b62ab015"
+    },
+    "loss": {
+      "title": "Kayıp",
+      "src": "7f1cbf89"
+    },
+    "lot": {
+      "title": "Lut",
+      "src": "c04c800e"
+    },
+    "love": {
+      "title": "Sevgi",
+      "src": "4f213099"
+    },
+    "madyan": {
+      "title": "Medyen",
+      "short_description": "Medyen (مدين), Kur'an'da adı geçen ve kendilerine Şuayb peygamberin (a.s) gönderildiği bir kavmin adıdır.",
+      "src": "99365949"
+    },
+    "madyan-midian": {
+      "title": "Medyen (Midian)",
+      "src": "4a7ead09"
+    },
+    "magic": {
+      "title": "Büyü",
+      "src": "ac026993"
+    },
+    "magician": {
+      "title": "Büyücü",
+      "src": "09c0b5bb"
+    },
+    "man": {
+      "title": "Erkek",
+      "src": "3dfb37e3"
+    },
+    "marriage": {
+      "title": "Evlilik",
+      "src": "0c8da047"
+    },
+    "mary": {
+      "title": "Meryem",
+      "src": "6ea2a8fb"
+    },
+    "maryam": {
+      "title": "Meryem",
+      "short_description": "Meryem (مريم) (a.s), İsa'nın (a.s.) annesi ve İmran'ın kızı olup, İslam'da en çok saygı duyulan kadınlardan biridir.",
+      "src": "4c4f3fef"
+    },
+    "materialism": {
+      "title": "Maddecilik",
+      "src": "57a04a9e"
+    },
+    "mercy": {
+      "title": "Merhamet",
+      "src": "2dedb39b"
+    },
+    "messenger": {
+      "title": "Peygamber",
+      "src": "5f656e6a"
+    },
+    "mockery": {
+      "title": "Alay Etme",
+      "src": "26a8b597"
+    },
+    "money": {
+      "title": "Mal",
+      "src": "dd17efd7"
+    },
+    "monotheism": {
+      "title": "Tevhid",
+      "src": "63d5a5d3"
+    },
+    "moosa": {
+      "title": "Musa",
+      "src": "e4611730"
+    },
+    "morning": {
+      "title": "Sabah",
+      "src": "9d506130"
+    },
+    "moses": {
+      "title": "Musa",
+      "src": "46c7a95c"
+    },
+    "mountains-976": {
+      "title": "Dağlar",
+      "src": "f215a882"
+    },
+    "muhammad": {
+      "title": "Muhammed",
+      "short_description": "Muhammed (محمد) (s.a.v.), Allah’ın son peygamberi ve elçisinin adıdır.",
+      "src": "7c412c8a"
+    },
+    "murder": {
+      "title": "Cinayet",
+      "src": "78d1f35d"
+    },
+    "musa": {
+      "title": "Musa",
+      "short_description": "Musa (موسى), İslam'da yüce bir peygamber olup, ismi Kur'an'da diğer tüm peygamber veya elçilerden daha sık geçmektedir.",
+      "src": "ca515a1d"
+    },
+    "muslim": {
+      "title": "Müslüman",
+      "src": "3d57d8d0"
+    },
+    "namaz": {
+      "title": "Namaz",
+      "src": "f43ab2c6"
+    },
+    "name": {
+      "title": "İsim",
+      "src": "267457ce"
+    },
+    "nation": {
+      "title": "Ümmet",
+      "src": "b782b853"
+    },
+    "news": {
+      "title": "Haberler",
+      "src": "a0ded482"
+    },
+    "night": {
+      "title": "Gece",
+      "src": "ab677e03"
+    },
+    "noah": {
+      "title": "Nuh",
+      "src": "f38094c8"
+    },
+    "nuh": {
+      "title": "Nuh",
+      "short_description": "Nuh (نوح) (a.s.), İslam'da, Kur'an'da büyük tufan döneminde yaklaşık 950 yıl yaşadığı belirtilen seçkin bir peygamberdir.",
+      "src": "9dc44509"
+    },
+    "number": {
+      "title": "Sayı",
+      "src": "5c0b7b11"
+    },
+    "oaths": {
+      "title": "Yeminler",
+      "src": "dc89ff2b"
+    },
+    "obstruction": {
+      "title": "Engelleme",
+      "src": "08fcbbf6"
+    },
+    "optimism": {
+      "title": "İyimserlik",
+      "src": "fe8dd44b"
+    },
+    "pair": {
+      "title": "Çift",
+      "src": "0d8f289e"
+    },
+    "parable": {
+      "title": "Kıssa",
+      "src": "606b720e"
+    },
+    "paradise": {
+      "title": "Cennet",
+      "short_description": "Cennet (الجنة), ahirette ödül ve huzur yeridir.",
+      "src": "0066a5dc"
+    },
+    "parents": {
+      "title": "Ebeveynler",
+      "src": "cb130a9a"
+    },
+    "path": {
+      "title": "Yol",
+      "src": "81358955"
+    },
+    "patience": {
+      "title": "Sabır",
+      "src": "045189d0"
+    },
+    "patience-during": {
+      "title": "sırasında sabır",
+      "src": "ce148e73"
+    },
+    "patient": {
+      "title": "Sabırlı",
+      "src": "c1eaf27c"
+    },
+    "pharaoh": {
+      "title": "Firavun",
+      "src": "3139e768"
+    },
+    "piety": {
+      "title": "Dindarlık",
+      "src": "fa503c9f"
+    },
+    "pious": {
+      "title": "Dindar",
+      "src": "b9034640"
+    },
+    "poor": {
+      "title": "Fakir",
+      "src": "4dad47ac"
+    },
+    "poverty": {
+      "title": "Fakirlik",
+      "src": "eb616a55"
+    },
+    "praise": {
+      "title": "Hamd",
+      "src": "00522455"
+    },
+    "prayer": {
+      "title": "İbadet",
+      "src": "077eba1b"
+    },
+    "promise": {
+      "title": "Söz vermek",
+      "src": "15067ec5"
+    },
+    "prophet": {
+      "title": "Peygamber",
+      "short_description": "Peygamber, Kur'an'da adı geçen, Allah'ın peygamberlerini ifade eden bir kategoridir.",
+      "src": "14045154"
+    },
+    "prostration-1676": {
+      "title": "Secde",
+      "src": "95b3f3d2"
+    },
+    "purification": {
+      "title": "Arınma",
+      "src": "23ec23e0"
+    },
+    "purity": {
+      "title": "Arınmışlık",
+      "src": "506511c4"
+    },
+    "qur-an": {
+      "title": "Kur'an",
+      "src": "5c1429b2"
+    },
+    "quran": {
+      "title": "Kur'an",
+      "short_description": "Kur'an (القرآن), Allah tarafından Muhammed'e (s.a.v.) indirilmiş son ilahi kitaptır.",
+      "src": "fa46dafd"
+    },
+    "rain": {
+      "title": "Yağmur",
+      "short_description": "Yağmur (مطر), Kur'an'da bahsedilen hava olaylarından biridir.",
+      "src": "41895bc8"
+    },
+    "rain-1223": {
+      "title": "yağmur",
+      "src": "98471976"
+    },
+    "recompense": {
+      "title": "Karşılık",
+      "src": "5e9c40e4"
+    },
+    "relatives": {
+      "title": "Akrabalar",
+      "src": "4d78bd8d"
+    },
+    "remembrance": {
+      "title": "Anma",
+      "src": "f139f341"
+    },
+    "reminder": {
+      "title": "Hatırlatma",
+      "src": "f54eb933"
+    },
+    "repayment": {
+      "title": "Karşılık",
+      "src": "819c79a4"
+    },
+    "repentance": {
+      "title": "Tövbe",
+      "src": "dfde889a"
+    },
+    "resurrection": {
+      "title": "Diriliş",
+      "src": "6394d75d"
+    },
+    "retribution-1705": {
+      "title": "İntikam",
+      "src": "03351524"
+    },
+    "revelation": {
+      "title": "Vahiy",
+      "src": "41eca898"
+    },
+    "reward": {
+      "title": "Ödül",
+      "src": "55123545"
+    },
+    "reward-of-the-believers": {
+      "title": "inananların ödülü",
+      "src": "a374324e"
+    },
+    "ridicule": {
+      "title": "Dalga Geçme",
+      "src": "394b2677"
+    },
+    "righteous": {
+      "title": "Dürüst",
+      "src": "0ccea0fb"
+    },
+    "righteousness": {
+      "title": "Dürüstlük",
+      "src": "3d612516"
+    },
+    "river": {
+      "title": "Nehir",
+      "src": "02f2168c"
+    },
+    "salat": {
+      "title": "Namaz",
+      "src": "c1cb0acf"
+    },
+    "salih": {
+      "title": "Salih",
+      "short_description": "Salih (صالح) (a.s), İslam'da Semud kavmine gönderilmiş seçkin bir peygamberdir.",
+      "src": "b2ecc428"
+    },
+    "satan": {
+      "title": "Şeytan",
+      "short_description": "İslam'da Şeytan, İblis olarak da bilinen bir cindir.",
+      "src": "befd3595"
+    },
+    "sea": {
+      "title": "Deniz",
+      "src": "70d13063"
+    },
+    "secret": {
+      "title": "Sır",
+      "src": "ccdeb601"
+    },
+    "security": {
+      "title": "Güvenlik",
+      "src": "600224c1"
+    },
+    "self": {
+      "title": "Benlik",
+      "src": "8eae77c0"
+    },
+    "shaitan": {
+      "title": "Şeytan",
+      "src": "49a15f2d"
+    },
+    "shu-ayb": {
+      "title": "Şuayb",
+      "src": "29e881d8"
+    },
+    "shuayb": {
+      "title": "Şuayb",
+      "short_description": "Şuayb (شعيب) (a.s.), İslam'da, pek çok kişi tarafından İncil'deki Yitro (Jethro) figürüyle aynı kişi olduğu düşünülen saygın bir peygamberdir.",
+      "src": "f456f682"
+    },
+    "sight": {
+      "title": "Görme",
+      "src": "fbf9e1cd"
+    },
+    "sign": {
+      "title": "İşaret",
+      "src": "b6ecdeae"
+    },
+    "sky": {
+      "title": "Gökyüzü",
+      "src": "e339cfb6"
+    },
+    "solomon": {
+      "title": "Süleyman",
+      "short_description": "Süleyman (a.s.), İslam'da Davud'un (a.s.) oğlu olan seçkin bir peygamberdir.",
+      "src": "e86b1310"
+    },
+    "sons": {
+      "title": "Oğullar",
+      "src": "a454eff4"
+    },
+    "sorcery": {
+      "title": "Büyücülük",
+      "src": "38fca6ee"
+    },
+    "soul": {
+      "title": "Ruh",
+      "src": "b7b6e842"
+    },
+    "spending": {
+      "title": "Harcama",
+      "src": "04b801a7"
+    },
+    "spouse": {
+      "title": "Eş",
+      "src": "03088f49"
+    },
+    "stinginess": {
+      "title": "Cimrilik",
+      "src": "1d98eda0"
+    },
+    "story-with-pharaoh": {
+      "title": "Firavun ile ilgili hikâye",
+      "src": "d5808dc7"
+    },
+    "submission": {
+      "title": "İtaat",
+      "src": "c49f2b87"
+    },
+    "success": {
+      "title": "Başarı",
+      "src": "582b71ee"
+    },
+    "sun": {
+      "title": "Güneş",
+      "short_description": "Güneş (الشمس), Kur'an'da adı geçen gök cisimlerinden biridir ve genellikle Ay ile birlikte anılır.",
+      "src": "93260d50"
+    },
+    "supplication": {
+      "title": "Dua",
+      "src": "ac76d759"
+    },
+    "tabuk-2039": {
+      "title": "Tebük",
+      "src": "42a1427c"
+    },
+    "thamud": {
+      "title": "Semud",
+      "short_description": "Semûd (ثمود), Kur'an'da adı geçen ve antik Arabistan'da dağların içini oyarak taştan evler inşa eden bir kavmin adıdır. Onlara peygamber olarak Salih (a.s.) gönderilmiştir.",
+      "src": "edfcc7ba"
+    },
+    "tidings": {
+      "title": "Havadis",
+      "src": "58df2000"
+    },
+    "trial": {
+      "title": "İmtihan",
+      "src": "63d4a1a2"
+    },
+    "truth": {
+      "title": "Hakikat",
+      "src": "335285c3"
+    },
+    "unknown": {
+      "title": "Bilinmeyen",
+      "src": "4b85c68d"
+    },
+    "unseen": {
+      "title": "Görünmeyen",
+      "src": "34d2f709"
+    },
+    "victory": {
+      "title": "Zafer",
+      "src": "95d57ed8"
+    },
+    "warner": {
+      "title": "Uyarıcı",
+      "src": "effc720d"
+    },
+    "warning": {
+      "title": "Uyarı",
+      "src": "99c1dbd2"
+    },
+    "water": {
+      "title": "Su",
+      "src": "b20af0ba"
+    },
+    "wealth": {
+      "title": "Zenginlik",
+      "src": "386ab6dc"
+    },
+    "weather": {
+      "title": "Hava",
+      "src": "aab9e98e"
+    },
+    "will": {
+      "title": "İrade",
+      "src": "200fde47"
+    },
+    "wind-1863": {
+      "title": "Rüzgar",
+      "src": "c29b3442"
+    },
+    "wisdom": {
+      "title": "Hikmet",
+      "src": "7cd81343"
+    },
+    "with-his-brother-moses-as-messengers-to-pharaoh-and-his-people": {
+      "title": "kardeşi Musa (ﷺ) ile birlikte, Firavun’a ve onun kavmine elçiler olarak",
+      "src": "467a77e2"
+    },
+    "with-his-people": {
+      "title": "kendi kavmiyle",
+      "src": "acd54feb"
+    },
+    "witness": {
+      "title": "Şahit",
+      "src": "4b337aac"
+    },
+    "wives-1866": {
+      "title": "Hanımlar",
+      "src": "d62820dd"
+    },
+    "women-1239": {
+      "title": "Kadın",
+      "src": "1a9558a2"
+    },
+    "world": {
+      "title": "Dünya",
+      "src": "fdcc4d01"
+    },
+    "worship": {
+      "title": "İbadet",
+      "src": "234c864a"
+    },
+    "wrongdoer": {
+      "title": "Günahkar",
+      "src": "c487230f"
+    },
+    "zakat": {
+      "title": "Zekat",
+      "src": "7e468485"
+    }
+  }
+}
